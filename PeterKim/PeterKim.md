@@ -16,7 +16,7 @@
 ## GitHub ID: [smwkbgmn](https://github.com/smwkbgmn)
 
 ## About me: 
-
+Hello! I am a student at 42 :) 
 - I enjoy many things! - playing basketball, watching thriller movie, listening house/dnb/trap music, and travaling around the world
 -  I like to solve problems in the most efficient way! It brings me the most pleasure; it even thrills me
 
