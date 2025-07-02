@@ -3,17 +3,23 @@
 ## Profile Pic:
 ![alt](picture.png)
 
-## Call me by this name: Peter
+## Call me by this name:
+Peter
 
-## Cohort: July 2025
+## Cohort:
+July 2025
 
-## Email ID: 6moguai9@gmail.com
+## Email ID:
+6moguai9@gmail.com
 
-## LinkedIn: [smwkbgmn](www.linkedin.com/in/smwkbgmn)
+## LinkedIn:
+[smwkbgmn](www.linkedin.com/in/smwkbgmn)
 
-## Slack ID: Donghyun Kim
+## Slack ID:
+Peter Kim
 
-## GitHub ID: [smwkbgmn](https://github.com/smwkbgmn)
+## GitHub ID:
+[smwkbgmn](https://github.com/smwkbgmn)
 
 ## About me: 
 Hello! I am a student at 42 :) - donghyu2
