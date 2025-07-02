@@ -13,7 +13,7 @@ July 2025
 6moguai9@gmail.com
 
 ## LinkedIn:
-[smwkbgmn](www.linkedin.com/in/smwkbgmn)
+[smwkbgmn](https://linkedin.com/in/smwkbgmn)
 
 ## Slack ID:
 Peter Kim
