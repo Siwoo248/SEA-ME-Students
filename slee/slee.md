@@ -9,4 +9,5 @@
 ## About me :
  - I am majoring in Automotive and IT convergence at Kookmin University, South Korea. 
  - I like playing sports.  
-## Project Links : coming soon.
+## Project Links : https://github.com/Siwoo248/SEA-ME-warm-up
+
