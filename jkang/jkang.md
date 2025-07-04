@@ -14,4 +14,4 @@
 - I'm a big fan of football and Formula 1.
     - If you enjoy watching F1 too, let's watch it together sometime!
 ## Project Links:
-- Update later
+- Warm-up : https://github.com/Ju-Daeng-E/SEA-ME-warm-up
