@@ -14,4 +14,5 @@
 - I will do my best in the project.
 - I like to watch and play football.
 ## Project Links:
-- I will update later.
+- [Ex02: Convert.cpp] (https://github.com/Changseok-Oh29/SEA-ME-Warmup/blob/master/convert.cpp)
+- [Ex03: old_phonebook.cpp] (https://github.com/Changseok-Oh29/SEA-ME-Warmup/blob/master/convert.cpp)
